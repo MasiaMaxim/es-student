@@ -21,7 +21,7 @@ int main()
 
     while (1)
     {
-        printf("Hellow, world!\n");
+        printf("Hello, world!\n");
         sleep_ms(1000);
     }
 }
